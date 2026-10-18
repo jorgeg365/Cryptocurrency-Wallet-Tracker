@@ -1,0 +1,22 @@
+
+# ======================================
+# CRYPTOCURRENCY WALLET TRACKER
+# GIT IGNORE
+# ======================================
+
+# Database credentials
+/includes/db.php
+
+# Environment configuration
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Local editor configuration
+.vscode/
+
+# Temporary files
+*.tmp
