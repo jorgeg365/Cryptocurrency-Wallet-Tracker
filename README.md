@@ -168,29 +168,29 @@ The first transaction was a purchase of 12 Dogecoin (DOGE), and the second was a
 These results confirmed that the PHP application saved transaction information in MySQL and that the database tables could be connected using SQL queries.
 
 
+
 ## Project Screenshots
 
 ### User Registration
-![Registration](screenshots/Registration.png)
+![Registration](Registration.png)
 
 ### Cryptocurrency Wallets
-![Wallets](screenshots/wallets.png)
+![Wallets](wallets.png)
 
-### Transactions
-![Transactions](screenshots/transactions.png)
+### Cryptocurrency Transactions
+![Transactions](transactions.png)
 
 ### Database Tables
-![Database Tables](screenshots/database_tables.png)
+![Database Tables](database_tables.png)
 
 ### Four-Table INNER JOIN
-![Four-Table JOIN](screenshots/four_table_join.png)
+![Four-Table JOIN](four_table_join.png)
 
 ### GROUP BY Results
-![GROUP BY](screenshots/group_by_wallets.png)
+![GROUP BY](goup_by_wallets.png)
 
 ### Users and Wallets INNER JOIN
-![Wallet INNER JOIN](screenshots/wallets_inner_join.png)
-
+![Wallet INNER JOIN](wallets_inner_join.png)
 
 ## Group Information
 
