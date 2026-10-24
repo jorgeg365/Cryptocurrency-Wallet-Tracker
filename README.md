@@ -141,6 +141,32 @@ This application is an educational cryptocurrency tracking system. It records ma
 
 It does not connect to real cryptocurrency wallets, execute trades, or retrieve live market prices.
 
+## Database Testing and Results
+We tested our Cryptocurrency Wallet Tracker application using XAMPP, PHP, MySQL, and phpMyAdmin.
+
+During testing, we registered five user accounts, created five cryptocurrency wallets, and added two cryptocurrency transactions through the website.
+
+We used SQL queries to verify that the information was saved correctly in the database.
+SQL Queries Tested
+
+INNER JOIN: Connected users with their cryptocurrency wallets.
+
+LEFT JOIN: Displayed users, including those without wallets.
+
+GROUP BY: Counted the number of wallets owned by each user.
+
+Three-Table INNER JOIN: Connected users, wallets, and wallet transactions.
+
+Four-Table INNER JOIN: Connected users, wallets, wallet transactions, and cryptocurrencies.
+
+Four-Table INNER JOIN Results
+
+Our final SQL query successfully displayed two transactions from the Savings Wallet belonging to Sammy Brook.
+
+The first transaction was a purchase of 12 Dogecoin (DOGE), and the second was a purchase of 80 Cardano (ADA).
+
+These results confirmed that the PHP application saved transaction information in MySQL and that the database tables could be connected using SQL queries.
+
 ## Group Information
 
 **Course:** CIS 344
