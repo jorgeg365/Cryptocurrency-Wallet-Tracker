@@ -181,4 +181,3 @@ These results confirmed that the PHP application saved transaction information i
 
 ---
 
-*Developed as a CIS 344 group database application project.*
