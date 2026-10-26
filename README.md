@@ -172,25 +172,25 @@ These results confirmed that the PHP application saved transaction information i
 ## Project Screenshots
 
 ### User Registration
-![Registration](Registration.png)
+![Registration](images/Registration.png)
 
 ### Cryptocurrency Wallets
-![Wallets](wallets.png)
+![Wallets](images/wallets.png)
 
 ### Cryptocurrency Transactions
-![Transactions](transactions.png)
+![Transactions](images/transactions.png)
 
 ### Database Tables
-![Database Tables](database_tables.png)
+![Database Tables](images/database_tables.png)
 
 ### Four-Table INNER JOIN
-![Four-Table JOIN](four_table_join.png)
+![Four-Table JOIN](images/four_table_join.png)
 
 ### GROUP BY Results
-![GROUP BY](goup_by_wallets.png)
+![GROUP BY](images/goup_by_wallets.png)
 
 ### Users and Wallets INNER JOIN
-![Wallet INNER JOIN](wallets_inner_join.png)
+![Wallet INNER JOIN](images/wallets_inner_join.png)
 
 ## Group Information
 
