@@ -1,6 +1,6 @@
 # Cryptocurrency Wallet Tracker
 
-**CIS 344 — Group Project**
+**CIS 344 - Group Project**
 
 ## Project Overview
 
