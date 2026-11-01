@@ -1,4 +1,4 @@
-Cryptocurrency Wallet Tracker — Demo Video
+Cryptocurrency Wallet Tracker - Demo Video
 
 CIS 344 Group Project | Fall 2026
 
